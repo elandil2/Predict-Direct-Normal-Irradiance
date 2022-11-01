@@ -18,6 +18,4 @@ In these days of global energy crisis, solar energy is emerging as a viable alte
 Even if they are closer to the Equator or receive more sunlight, developing or underdeveloped countries cannot benefit as much from solar energy as developed countries. Solar energy panels are installed and adjusted according to the angle of direct normal irradiance to achieve efficiency. 
 However, direct normal irradiance is measured using a pyrheliometer. The pyrheliometer is a sensor that requires ongoing maintenance (calibration) and is more expensive than other sensors. This study attempted to predict direct normal radiation with machine learning models on the dataset created with meteorological data obtained from other sensors without using a pyrheliometer.
 
-[FULL TEXT]('https://github.com/elandil2/Predict-Direct-Normal-Irradiance/blob/main/A%20SYSTEM%20TO%20PREDICT%20SOLAR%20RADIATION%20BY%20USING_0722.pdf')
-
-<a href="https://codeql.github.com/docs/">extensive documentation</a>
+[FULL TEXT](https://github.com/elandil2/Predict-Direct-Normal-Irradiance/blob/main/A%20SYSTEM%20TO%20PREDICT%20SOLAR%20RADIATION%20BY%20USING_0722.pdf)
